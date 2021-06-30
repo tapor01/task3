@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lehar/AndroidStudioProjects/BookHub/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lehar/AndroidStudioProjects/BookHub/app/src/main/res/layout/fragment_dashbord_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
